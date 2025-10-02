@@ -27,8 +27,8 @@ role: Professor Agrégé en Informatique | Ingénieur en Modélisation et Calcul
 
 # Organizations/Affiliations to display in Biography block
 organizations:
-  - name: CPGE Moulay Youssef Rabat
-    url: https://www.cpge.men.gov.ma/
+  - name: CPGE BAB Sahraa Guelmim
+    url: https://www.cpge.ac.ma/
   - name: Ministère de l'Éducation Nationale du Maroc
     url: https://www.men.gov.ma/
 
@@ -60,7 +60,7 @@ education:
     date_end: 2022-06-30
     summary: |
       Préparation et réussite du concours d’Agrégation en Informatique.
-  - area: Master en Ingénierie - Modélisation et Calcul Scientifique
+  - area: Ingénieur - Modélisation et Calcul Scientifique
     institution: École Mohammadia d’Ingénieurs (EMI)
     date_start: 2016-09-01
     date_end: 2019-06-30
