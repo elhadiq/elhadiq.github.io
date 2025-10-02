@@ -14,7 +14,7 @@ pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 💻
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,147 +23,120 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Professor Agrégé en Informatique
+role: Professor Agrégé en Informatique | Ingénieur en Modélisation et Calcul Scientifique
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in Biography block
 organizations:
-  - name: Ministère de l'education national 
-    url: https://men.gov.ma/
+  - name: CPGE Moulay Youssef Rabat
+    url: https://www.cpge.men.gov.ma/
+  - name: Ministère de l'Éducation Nationale du Maroc
+    url: https://www.men.gov.ma/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:elhadiqzouhair@meta.com'
+    url: 'mailto:elhadiq.pro@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/zelhadiq
   - icon: brands/github
     url: https://github.com/elhadiq
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/zelhadiq/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=elhadiq
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0000-000-0097
+    url: https://orcid.org/0000-0002-6108-7176
 
+# Interests
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Modélisation et calcul scientifique
+  - Algorithmique et complexité
+  - Compilation et théorie des langages
+  - Intelligence artificielle et optimisation
+  - Enseignement de l’informatique
 
+# Education
 education:
-  - area: Computer Sience
-    institution: Ecole Mohammedia d'ingénieurs
+  - area: Agrégation d’Informatique
+    institution: CRMEF Marrakech
+    date_start: 2020-09-01
+    date_end: 2022-06-30
+    summary: |
+      Préparation et réussite du concours d’Agrégation en Informatique.
+  - area: Master en Ingénierie - Modélisation et Calcul Scientifique
+    institution: École Mohammadia d’Ingénieurs (EMI)
     date_start: 2016-09-01
     date_end: 2019-06-30
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read '
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Cadi Ayad Université
+      Formation approfondie en modélisation mathématique, calcul scientifique, finance quantitative et simulation numérique.
+  - area: Licence en Mathématiques et Informatique
+    institution: Faculté des Sciences et Techniques Guéliz Marrakech (FSTG)
+    date_start: 2015-09-01
+    date_end: 2016-06-30
+  - area: Diplôme d’Études Universitaires en Sciences et Techniques (DEUST)
+    institution: FSTG Marrakech
     date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+    date_end: 2015-06-30
+  - area: Baccalauréat Scientifique - Physique et Chimie
+    institution: Lycée Kachkat Youssoufia
+    date_start: 2013-06-01
+    date_end: 2013-06-30
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: FSTG
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
-
+# Professional Experience
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    company_logo: ''
-    date_start: 2020-01-01
+  - position: Professeur Agrégé d’Informatique (Classes Préparatoires MP & PSI)
+    company_name: CPGE Moulay Youssef Rabat
+    company_url: https://www.cpge.men.gov.ma/
+    date_start: 2022-09-01
     date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Enseignement des cours d’informatique (algorithmique, systèmes, programmation et logique).
+      Encadrement d’étudiants en classes préparatoires scientifiques MP et PSI.
+  - position: Stage de fin d’études – Stratégies d’investissement quantitatif
+    company_name: Société Générale Africa Technologies Services
+    company_url: https://www.sgats.com/
+    date_start: 2019-02-01
+    date_end: 2019-06-30
+    summary: |
+      Implémentation de modèles de backtesting pour de nouvelles stratégies d’investissement quantitatif.
+  - position: Stage d’ingénierie – Contrôleur adaptatif pour feux tricolores
+    company_name: NOVEC SA
+    company_url: https://www.novec.ma/
+    date_start: 2018-07-01
+    date_end: 2018-08-31
+    summary: |
+      Conception d’un système de régulation adaptatif pour la gestion du trafic urbain.
+  - position: Stage – Développement d’une application web de gestion d’absences
+    company_name: OCP Youssoufia
+    company_url: https://www.ocpgroup.ma/
+    date_start: 2017-07-01
+    date_end: 2017-08-31
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Informatique et programmation
     items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+      - name: Langages
+        description: Java, C, Python, SQL, UML
+      - name: Théorie et modélisation
+        description: Automates, logique, complexité, compilation, analyse sémantique
+      - name: Outils et systèmes
+        description: GNU/Linux, Windows, systèmes embarqués, simulation numérique
+  - name: Mathématiques et finance quantitative
     items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
+      - name: Domaines
+        description: Probabilités, optimisation, chaînes de Markov, calcul différentiel, finance de marché
+  - name: Langues
+    items:
+      - name: Arabe
+        description: Langue maternelle
+      - name: Français
+        description: Courant
+      - name: Anglais
+        description: Professionnel
 
-languages:
-  - name: English
-    percent: 100
-  - name: Spanish
-    percent: 50
+# Awards (optional, left blank for now)
+awards: []
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+**Professional Summary**  
+Zouhair El Hadiq is an **Agrégé Professor of Computer Science** and **Modeling & Scientific Computing Engineer** passionate about bridging rigorous theory and practical innovation. His experience spans quantitative finance, intelligent control systems, and educational excellence. Currently teaching at **CPGE Moulay Youssef Rabat**, he trains future engineers in algorithmic thinking and computational reasoning. His multidisciplinary background—linking mathematics, logic, and computation—drives his commitment to advancing computer science education and applied research in Morocco.
+
