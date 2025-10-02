@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: EL HADIQ ZOUHAIR
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: ZOUHAIR
+last_name: EL HADIQ
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,29 +23,29 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Professor Agrégé en Informatique
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Ministère de l'education national 
+    url: https://men.gov.ma/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:elhadiqzouhair@meta.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: https://twitter.com/zelhadiq
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/elhadiq
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/zelhadiq/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=elhadiq
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0000-000-0097
 
 interests:
   - Large Language Models
@@ -54,17 +54,17 @@ interests:
   - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
+  - area: Computer Sience
+    institution: Ecole Mohammedia d'ingénieurs
+    date_start: 2016-09-01
     date_end: 2019-06-30
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+    Genie Mis
     button:
-      text: 'Read Thesis'
+      text: 'Read '
       url: 'https://example.com/thesis.pdf'
   - area: MS Computer Science
-    institution: Carnegie Mellon University
+    institution: Cadi Ayad Université
     date_start: 2013-09-01
     date_end: 2015-05-31
     summary: |
@@ -72,7 +72,7 @@ education:
 
       Specialized in machine learning and robotics.
   - area: BS Computer Science
-    institution: MIT
+    institution: FSTG
     date_start: 2009-09-01
     date_end: 2013-05-31
     summary: |
