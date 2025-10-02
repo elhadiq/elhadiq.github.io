@@ -82,6 +82,24 @@ education:
 # Professional Experience
 work:
   - position: Professeur Agrégé d’Informatique (Classes Préparatoires MP & PSI)
+    company_name: CPGE Bab Sahraa Guelmim
+    company_url: ''
+    date_start: 2025-07-17
+    date_end: ''
+    summary: |
+      Enseignement des cours d’informatique appliquée, algorithmique et modélisation scientifique.
+      Contribution au développement pédagogique et numérique de la CPGE Bab Sahraa.
+      Accompagnement des étudiants dans la préparation aux concours d’ingénieurs.
+  - position: Professeur Agrégé d’Informatique (Classes Préparatoires MP & PSI)
+    company_name: CPGE Salmane Al Farissi Salé
+    company_url: ''
+    date_start: 2023-09-02
+    date_end: 2025-07-17
+    summary: |
+      Enseignement de l’informatique (algorithmique, systèmes, structures de données et logique).
+      Encadrement et suivi des étudiants des filières MP et PSI.
+      Participation à la préparation aux concours nationaux.
+  - position: Professeur Agrégé d’Informatique (Classes Préparatoires MP & PSI)
     company_name: CPGE Moulay Youssef Rabat
     company_url: https://www.cpge.men.gov.ma/
     date_start: 2022-09-01
