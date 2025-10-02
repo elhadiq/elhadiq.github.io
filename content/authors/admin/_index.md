@@ -58,8 +58,7 @@ education:
     institution: Ecole Mohammedia d'ingénieurs
     date_start: 2016-09-01
     date_end: 2019-06-30
-    summary: |
-    Genie Mis
+    summary: | Genie Mis
     button:
       text: 'Read '
       url: 'https://example.com/thesis.pdf'
