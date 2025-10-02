@@ -58,7 +58,8 @@ education:
     institution: Ecole Mohammedia d'ingénieurs
     date_start: 2016-09-01
     date_end: 2019-06-30
-    summary: | Genie Mis
+    summary: |
+      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
       text: 'Read '
       url: 'https://example.com/thesis.pdf'
