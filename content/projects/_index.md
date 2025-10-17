@@ -9,15 +9,22 @@ design:
 
 # Page sections
 sections:
+  - block: markdown
+    content:
+      title: Plateformes et outils
+      text: |-
+        J'aime concevoir des solutions concrètes liant algorithmique, optimisation et pédagogie. Un axe majeur consiste à déployer des environnements numériques pour soutenir l'apprentissage, notamment l'utilisation de Moodle à la CPGE Bab Sahraa afin d'organiser cours, TD, évaluations et suivi des étudiants.
+  - block: markdown
+    content:
+      title: 🐍 PythonLab — Programmation interactive
+      text: |-
+        <p>Un module pratique intégré à Moodle, permettant aux étudiants d'exécuter du code Python directement au sein de la plateforme d'apprentissage. Il comprend des exercices sur la géométrie computationnelle, l'itération et la visualisation (matplotlib).</p>
+        <p><strong>Objectifs pédagogiques :</strong> Encourager l'expérimentation et l'autonomie en débogage.<br><strong>Évaluation :</strong> Cas de tests automatisés et retours basés sur la performance.</p>
   - block: collection
     content:
       title: Projets sélectionnés
       text: |-
-        J'aime concevoir des solutions concrètes liant algorithmique, optimisation et pédagogie. Parmi ces réalisations, j'ai déployé Moodle pour structurer les cours et activités d'informatique à la CPGE Bab Sahraa, ouvrant la voie à un suivi numérique et collaboratif.
-
-        <h3>🐍 PythonLab — Interactive Programming</h3>
-        <p>A hands-on module integrated into Moodle, allowing students to execute Python code directly within the learning platform. It includes exercises on computational geometry, iteration, and visualization (matplotlib).</p>
-        <p><strong>Learning objectives:</strong> Encourage experimentation and debugging autonomy.<br><strong>Assessment:</strong> Automated test cases and performance-based feedback.</p>
+        Les projets ci-dessous illustrent ces initiatives numériques et pédagogiques.
       filters:
         folders:
           - projects
