@@ -60,7 +60,7 @@ education:
     date_end: 2022-06-30
     summary: |
       Préparation et réussite du concours d’Agrégation en Informatique.
-  - area: Ingénieur - Modélisation et Calcul Scientifique
+  - area: Ingénieur - Modélisation et Informatique Scientifique Scientifique
     institution: École Mohammadia d’Ingénieurs (EMI)
     date_start: 2016-09-01
     date_end: 2019-06-30
