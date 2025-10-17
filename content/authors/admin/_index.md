@@ -113,7 +113,7 @@ work:
     date_end: 2024-01-31
     summary: |
       Chargé de l’élément de module Bases de données pour la filière Génie électrique (S1 2023-2024).
-      Introduction aux modèles relationnels, au langage SQL et à la conception de schémas adaptés aux systèmes embarqués.
+      Introduction aux modèles relationnels, au langage SQL .
   - position: Professeur Agrégé d’Informatique (Classes Préparatoires MP & PSI)
     company_name: CPGE Salmane Al Farissi Salé
     company_url: ''
