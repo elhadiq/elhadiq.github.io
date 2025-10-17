@@ -24,10 +24,6 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
-  - block: resume-awards
-    content:
-      title: Distinctions
-      username: admin
   - block: resume-languages
     content:
       title: Langues

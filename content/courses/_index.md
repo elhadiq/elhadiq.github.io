@@ -36,18 +36,4 @@ sections:
         <h3>Méthodologie TIPE</h3>
         <p>Guidance for developing and presenting personal scientific projects (TIPE). Covers topic selection, experimental design, and clear scientific communication.</p>
         <p><strong>Learning objectives:</strong> Build autonomy, rigor, and clarity in scientific writing.<br><strong>Assessment:</strong> Continuous supervision and oral presentation evaluation.</p>
-  - block: collection
-    id: courses
-    content:
-      title: Cours et supports
-      filters:
-        tag: Course
-        kinds:
-          - section
-    design:
-      view: article-grid
-      show_read_time: false
-      show_date: false
-      show_read_more: false
-      columns: 1
 ---
