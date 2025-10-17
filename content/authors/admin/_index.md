@@ -90,6 +90,23 @@ work:
       Enseignement des cours d’informatique appliquée, algorithmique et modélisation scientifique.
       Contribution au développement pédagogique et numérique de la CPGE Bab Sahraa.
       Accompagnement des étudiants dans la préparation aux concours d’ingénieurs.
+  - position: Professeur Agrégé d’Informatique (Classes Préparatoires MP)
+    company_name: CPGE Privée Alkhawarizmi Rabat
+    company_url: ''
+    date_start: 2023-09-01
+    date_end: 2025-07-01
+    summary: |
+      Encadrement des étudiants MP dans la préparation intensive aux concours d’entrée des grandes écoles.
+      Mise en place de parcours pédagogiques individualisés et d’ateliers Python orientés concours.
+      Coordination avec l’équipe pédagogique pour moderniser les supports et évaluations numériques.
+  - position: Professeur vacataire
+    company_name: École Mohammadia d’Ingénieurs – Génie électrique (1re année)
+    company_url: ''
+    date_start: 2023-09-01
+    date_end: 2024-01-31
+    summary: |
+      Chargé de l’élément de module Bases de données pour la filière Génie électrique (S1 2023-2024).
+      Introduction aux modèles relationnels, au langage SQL.
   - position: Professeur Agrégé d’Informatique (Classes Préparatoires MP & PSI)
     company_name: CPGE Salmane Al Farissi Salé
     company_url: ''
@@ -157,4 +174,3 @@ awards: []
 
 **Professional Summary**  
 Zouhair El Hadiq is an **Agrégé Professor of Computer Science** and **Modeling & Scientific Computing Engineer** passionate about bridging rigorous theory and practical innovation. His experience spans quantitative finance, intelligent control systems, and educational excellence. Currently teaching at **CPGE Moulay Youssef Rabat**, he trains future engineers in algorithmic thinking and computational reasoning. His multidisciplinary background—linking mathematics, logic, and computation—drives his commitment to advancing computer science education and applied research in Morocco.
-
