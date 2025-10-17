@@ -1,6 +1,6 @@
 ---
-title: Courses
-summary: My courses
+title: Enseignement
+summary: Ressources pédagogiques
 type: landing
 
 cascade:
@@ -14,7 +14,7 @@ sections:
   - block: collection
     id: courses
     content:
-      title: Courses
+      title: Cours et supports
       filters:
         tag: Course
         kinds:
