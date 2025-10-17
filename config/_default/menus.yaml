@@ -19,6 +19,3 @@ main:
   - name: Projets
     url: projects/
     weight: 50
-  - name: Publications
-    url: publications/
-    weight: 60
