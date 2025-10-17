@@ -99,6 +99,13 @@ work:
       Encadrement des étudiants MP dans la préparation intensive aux concours d’entrée des grandes écoles.
       Mise en place de parcours pédagogiques individualisés et d’ateliers Python orientés concours.
       Coordination avec l’équipe pédagogique pour moderniser les supports et évaluations numériques.
+  - position: Jury d’Agrégation de Mathématiques (Phase orale)
+    company_name: Rabat, Royaume du Maroc
+    company_url: 'https://agreg-maths.ma/'
+    date_start: 2023-07-01
+    date_end: 2025-07-31
+    summary: |
+      Participation aux travaux de jury pour l’agrégation marocaine de mathématiques, sessions 2023, 2024 et 2025.
   - position: Professeur vacataire
     company_name: École Mohammadia d’Ingénieurs – Génie électrique (1re année)
     company_url: ''
@@ -106,7 +113,7 @@ work:
     date_end: 2024-01-31
     summary: |
       Chargé de l’élément de module Bases de données pour la filière Génie électrique (S1 2023-2024).
-      Introduction aux modèles relationnels, au langage SQL.
+      Introduction aux modèles relationnels, au langage SQL et à la conception de schémas adaptés aux systèmes embarqués.
   - position: Professeur Agrégé d’Informatique (Classes Préparatoires MP & PSI)
     company_name: CPGE Salmane Al Farissi Salé
     company_url: ''
