@@ -11,6 +11,11 @@ cascade:
       show_breadcrumb: true
 
 sections:
+  - block: markdown
+    content:
+      title: Accéder à la plateforme Moodle
+      text: |-
+        Retrouvez l'ensemble des ressources et activités pédagogiques sur [cpgeacademy.org](https://cpgeacademy.org), la plateforme Moodle de la CPGE Bab Sahraa.
   - block: collection
     id: courses
     content:
