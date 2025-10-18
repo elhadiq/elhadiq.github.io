@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Temporary Outage • CPGE Academy</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      --bg: #f4f6fb;
+      --card-bg: #ffffff;
+      --text: #1a1f36;
+      --accent: #0f62fe;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #0b0d18;
+        --card-bg: #131626;
+        --text: #e8ecff;
+      }
+    }
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: "Segoe UI", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+      background: radial-gradient(circle at top, rgba(15, 98, 254, 0.12), transparent 60%), var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 1.25rem;
+      box-shadow: 0 20px 40px rgba(15, 98, 254, 0.12);
+      padding: 2.5rem 3rem;
+      max-width: 480px;
+      text-align: center;
+    }
+    .status {
+      font-size: 4rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      color: var(--accent);
+    }
+    h1 {
+      font-size: 2rem;
+      margin: 1rem 0 0.75rem;
+    }
+    p {
+      font-size: 1.05rem;
+      line-height: 1.6;
+      margin-bottom: 1.5rem;
+    }
+    .tips {
+      font-size: 0.95rem;
+      text-align: left;
+      background: rgba(15, 98, 254, 0.08);
+      border-radius: 1rem;
+      padding: 1.25rem;
+    }
+    .tips strong {
+      display: block;
+      margin-bottom: 0.5rem;
+      text-transform: uppercase;
+      font-size: 0.8rem;
+      letter-spacing: 0.08em;
+      color: var(--accent);
+    }
+    .tips ul {
+      list-style: disc;
+      padding-left: 1.2rem;
+    }
+    .tips li {
+      margin-bottom: 0.4rem;
+    }
+    footer {
+      margin-top: 2rem;
+      font-size: 0.85rem;
+      color: rgba(26, 31, 54, 0.65);
+    }
+  </style>
+</head>
+<body>
+  <main class="card">
+    <div class="status">502</div>
+    <h1>CPGE Academy is on a quick break</h1>
+    <p>
+      Our servers are catching up after a temporary outage. Please wait a few minutes
+      and try again&mdash;we expect to be back shortly.
+    </p>
+    <section class="tips">
+      <strong>What you can do</strong>
+      <ul>
+        <li>Reload this page in 5–10 minutes.</li>
+        <li>Clear the cache if the message stays longer than 15 minutes.</li>
+        <li>Check your classroom channel for updates from your instructor.</li>
+      </ul>
+    </section>
+    <footer>Thank you for your patience &mdash; CPGE Academy Team</footer>
+  </main>
+</body>
+</html>
