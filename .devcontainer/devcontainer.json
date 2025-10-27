@@ -1,0 +1,14 @@
+{
+  "name": "elhadiq.github.io",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {},
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y bashdb texlive-latex-base texlive-latex-extra texlive-fonts-recommended texlive-xetex texlive-lang-french texlive-fonts-extra && sudo apt-get clean",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "rogalmic.bash-debug"
+      ]
+    }
+  },
+  "remoteUser": "vscode"
+}
