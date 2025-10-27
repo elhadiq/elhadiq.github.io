@@ -6,7 +6,7 @@
 # Website name
 title: EL Hadiq Zouhair
 # Website URL
-baseURL: 'https://elhadiq.github.io/'
+baseURL: 'https://elhadiq.cpgeacademy.org/'
 
 ############################
 ## LANGUAGE
@@ -23,7 +23,7 @@ removePathAccents: true
 
 build:
   writeStats: true
-enableGitInfo: false
+enableGitInfo: true
 summaryLength: 30
 pagination:
   pagerSize: 10

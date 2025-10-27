@@ -1,2 +1,2 @@
-Personal Blog Of Zouhair El Hadiq
-elhadiq.cpgeacademy.org
+EL Hadiq Zouhair — Personal site
+https://elhadiq.cpgeacademy.org

@@ -1,13 +1,13 @@
 ---
 # Display name
-title: EL HADIQ ZOUHAIR
+title: Zouhair El Hadiq
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: ZOUHAIR
-last_name: EL HADIQ
+first_name: Zouhair
+last_name: El Hadiq
 
 # Pronouns (optional)
 pronouns: he/him

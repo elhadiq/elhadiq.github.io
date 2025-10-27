@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: false
     logo:
-      text: 'EL Hadiq Zouhair'
+      text: 'EL HADIQ ZOUHAIR'
 
 # Site footer
 footer:
@@ -55,6 +55,7 @@ locale:
 # Site features
 features:
   math:
-    enable: false
+    enable: true
+    engine: katex
   privacy_pack:
     enable: false
