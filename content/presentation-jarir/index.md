@@ -15,10 +15,27 @@ _build:
   render: always
 ---
 
-> **Accès restreint :** cette page n’apparaît pas dans la navigation du site. Conservez simplement l’URL privée pour préparer votre oral.
+> **Accès restreint :** cette page n’apparaît pas dans la navigation du site. Conservez simplement l’URL privée pour préparer votre oral d’admission (avant engagement doctoral).
+
+## Contexte de l’audition
+
+- **Type d’entretien :** audition d’accès aux études doctorales (avant signature d’engagement de 3 ans).  
+- **Formation doctorale :** Informatique — Laboratoire d’Informatique et de Systèmes Intelligents.  
+- **Encadrant pressenti :** Pr. Zahi Jarir.  
+- **Sujet proposé par l’encadrant :** « Vers une approche adaptative combinant IA générative et gamification pour un apprentissage immersif et personnalisé dans les environnements e-learning. »
+- **Profil administratif :**
+  - N° candidat : 6653
+  - Nom : El Hadiq Zouhair
+  - Diplôme : Ingénieur d’État — EMI Rabat
+  - Profession actuelle : En activité (Professeur agrégé en CPGE)
+  - Email : zouhairelhadiq@gmail.com | Tél : 0650300236
+  - CNIE : HA195046 | CNE : 1311253688
+
+Objectif : démontrer votre préparation, votre motivation et la pertinence du projet avant validation définitive du dossier doctoral.
 
 ## Objectifs de la présentation
 
+- Rappeler que le sujet est proposé par le Pr. Jarir et démontrer pourquoi vous êtes le candidat idéal pour le porter.
 - Montrer comment votre expertise de professeur agrégé d’informatique en CPGE et fondateur de la plateforme e-learning cpgeacademy alimente le projet doctoral.
 - Convaincre que le sujet choisi est pertinent, faisable et aligné avec les travaux du Pr. Jarir.
 - Prouver votre vision scientifique sur l’IA générative, la gamification et l’apprentissage adaptatif.
@@ -26,7 +43,7 @@ _build:
 
 ## Message d’ouverture (30-45 secondes)
 
-1. Remercier le Pr. Jarir pour l’entretien et rappeler le contexte de votre candidature.
+1. Remercier le Pr. Jarir pour l’entretien et rappeler qu’il s’agit de l’audition préalable à tout engagement doctoral.
 2. Présenter en une phrase forte le sujet : « Je propose de concevoir une approche adaptative qui combine IA générative et gamification pour rendre l’apprentissage en ligne immersif et personnalisé. »
 3. Annoncer le plan en trois temps : profil et motivation, proposition scientifique, méthodologie et impact.
 
@@ -37,6 +54,14 @@ _build:
 - **Apprentissage adaptatif** : systèmes capables d’ajuster les parcours en fonction du profil cognitif, du style d’apprentissage et des données d’interaction.
 
 Reliez ces piliers à vos expériences : développement de ressources pour cpgeacademy, accompagnement TIPE, maîtrise d’outils numériques et pédagogie active.
+
+## Argumentaire "candidat idéal"
+
+- **Alignement thématique immédiat :** vous travaillez déjà sur la transformation numérique de l’enseignement supérieur via cpgeacademy, ce qui fait de vous un porteur naturel du sujet proposé par l’encadrant.
+- **Expérience de terrain unique :** accès direct à des cohortes CPGE exigeantes, connaissance fine des profils d’apprenants et des défis de motivation en contexte sélectif.
+- **Capacité à piloter des projets complexes :** antécédents en modélisation scientifique, en conception de plateformes et en coordination pédagogique.
+- **Disponibilité et engagement :** position professionnelle stable permettant de consacrer du temps à la recherche durant trois ans, soutien institutionnel possible (CPGE, partenaires).
+- **Synergie avec le laboratoire :** apport de données réelles, de cas d’usage, et volonté de valoriser les travaux du laboratoire sur une plateforme existante.
 
 ## Plan d’exposé conseillé (10-12 minutes)
 
@@ -78,6 +103,8 @@ Reliez ces piliers à vos expériences : développement de ressources pour cpgea
 
 - Rappeler la cohérence profil-sujet-laboratoire.
 - Mettre en avant votre motivation et votre disponibilité pour co-construire la feuille de route.
+- Souligner que, parce que le sujet émane du Pr. Jarir, vous démontrez par votre parcours que vous êtes le candidat idéal pour en garantir la réussite.
+- Préciser que vous vous projetez sur l’engagement doctoral de trois ans dès admission.
 - Ouvrir sur les échanges : « Je suis prêt à détailler l’architecture IA, les protocoles pédagogiques ou les collaborations envisagées. »
 
 ## Questions probables et réponses clés
