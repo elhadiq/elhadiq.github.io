@@ -19,6 +19,9 @@ sections:
       button:
         text: Télécharger le CV
         url: uploads/resume.pdf
+      buttons:
+        - text: Télécharger la présentation
+          url: presentations/candidature-jarir.pdf
       headings:
         about: "À propos"
         education: "Formation"
