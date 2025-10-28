@@ -21,7 +21,7 @@ sections:
         url: uploads/resume.pdf
       buttons:
         - text: Télécharger la présentation
-          url: presentations/candidature-jarir.pdf
+          url: presentations/candidature-Prof-jarir.pdf
       headings:
         about: "À propos"
         education: "Formation"

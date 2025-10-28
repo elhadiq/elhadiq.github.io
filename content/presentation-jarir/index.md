@@ -5,7 +5,7 @@ date: 2024-07-09
 draft: false
 summary: 'Support privé pour structurer l’oral de candidature autour du sujet IA générative, gamification et e-learning.'
 type: page
-slug: candidature-doctorat-jarir
+slug: candidature-doctorat-Prof-jarir
 cms_exclude: true
 toc: true
 share: false
