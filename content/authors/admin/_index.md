@@ -127,6 +127,7 @@ work:
     company_name: CPGE Moulay Youssef Rabat
     company_url: https://www.cpge.men.gov.ma/
     date_start: 2022-09-01
+    date_end: 2023-07-15
     date_end: ''
     summary: |
       Enseignement des cours d’informatique (algorithmique, systèmes, programmation et logique).
