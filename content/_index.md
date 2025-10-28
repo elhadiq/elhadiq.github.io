@@ -15,13 +15,10 @@ sections:
       username: admin
       text: |-
         Passionné par la modélisation et le calcul scientifique, j'accompagne les futures générations d'ingénieurs dans l'exploration des systèmes complexes, de l'algorithmique avancée et de la pensée critique. Ce site rassemble mes projets, publications et ressources pédagogiques.
+
+        {{< button url="uploads/resume.pdf" style="primary" >}}Télécharger le CV{{< /button >}}
+        {{< button url="presentations/candidature-Prof-jarir.pdf" style="secondary" >}}Télécharger la présentation{{< /button >}}
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Télécharger le CV
-        url: uploads/resume.pdf
-      buttons:
-        - text: Télécharger la présentation
-          url: presentations/candidature-Prof-jarir.pdf
       headings:
         about: "À propos"
         education: "Formation"
