@@ -23,180 +23,74 @@
   \titlepage
 \end{frame}
 
-\begin{frame}{Plan de l'exposé}
-  \tableofcontents
-\end{frame}
-
-\section{Contexte et ambition}
-
 \begin{frame}{Pourquoi ce projet ?}
   \begin{itemize}
-    \item Taux d'abandon élevé (70--80 \%) dans les formations e-learning malgré l'abondance de contenus.
-    \item Hétérogénéité forte des profils CPGE et professionnels : besoin de personnalisation fine.
-    \item Potentiel des LLM pour générer contenus et feedbacks contextualisés, encore peu exploité pédagogiquement.
-    \item Volonté du laboratoire de consolider l'axe \textbf{IA éducative} avec un terrain réel (CPGE, formation continue).
+    \item Beaucoup d'apprenants décrochent encore dans les cours en ligne.
+    \item Les profils des étudiants CPGE sont très variés : un même contenu ne suffit plus.
+    \item L'IA générative permet de créer des explications et exercices à la demande.
+    \item La gamification aide à garder le rythme sur la durée.
   \end{itemize}
 \end{frame}
 
-\begin{frame}{Alignement profil-sujet}
-  \begin{columns}
-    \column{0.55\textwidth}
-    \begin{itemize}
-      \item Professeur agrégé d'informatique à la CPGE Bab Sahra (Guelmim), expérience terrain MP/PSI.
-      \item Ingénieur en modélisation et calcul scientifique (EMI Rabat).
-      \item Créateur et pilote de \texttt{cpgeacademy.org} (ressources numériques, analytics).
-      \item Encadrement TIPE, productions de contenus adaptatifs, animation d'équipes pédagogiques.
-    \end{itemize}
-    \column{0.45\textwidth}
-    \begin{block}{Atout principal}
-      Capacité à \textbf{relier recherche et pratique} : expérimentation rapide, retours d'apprenants, diffusion.
-    \end{block}
-  \end{columns}
+\begin{frame}{Qui je suis}
+  \begin{itemize}
+    \item Professeur agrégé d'informatique à la CPGE Bab Sahra (Guelmim).
+    \item Ingénieur en modélisation scientifique (EMI Rabat).
+    \item Fondateur de \texttt{cpgeacademy.org}, plateforme e-learning pour les CPGE.
+    \item Habitué à accompagner des étudiants vers les concours et à suivre leurs progrès.
+  \end{itemize}
 \end{frame}
 
-\section{Problématique et état de l'art}
-
-\begin{frame}{Question de recherche}
-  \begin{block}{Formulation}
-    Comment concevoir un système e-learning qui s'adapte dynamiquement au profil \textbf{cognitif} et \textbf{motivationnel} de chaque apprenant en combinant \textbf{IA générative} pour la création de contenus personnalisés et \textbf{gamification} pour soutenir l'engagement ?
+\begin{frame}{Sujet proposé}
+  \begin{block}{Question centrale}
+    Comment offrir à chaque étudiant un parcours en ligne qui s'adapte à son niveau et à sa motivation, grâce à l'IA générative et à la gamification ?
   \end{block}
   \begin{itemize}
-    \item Cible : environnements e-learning intensifs (CPGE, formation continue).
-    \item Objectif : immersion, persévérance, amélioration mesurable des performances.
+    \item Le projet est porté par le Pr. Jarir et le laboratoire d'Informatique et de Systèmes Intelligents.
+    \item Mon apport : un terrain réel (CPGE), une connaissance fine des besoins et une plateforme prête à évoluer.
   \end{itemize}
 \end{frame}
 
-\begin{frame}{État de l'art synthétique}
-  \begin{columns}
-    \column{0.33\textwidth}
-    \textbf{IA générative}
-    \begin{itemize}
-      \item ChatGPT, Gemini, LLaMA pour contenus/feedbacks.
-      \item Tuteurs conversationnels (Luckin, 2024).
-      \item Limites : hallucinations, alignement pédagogique.
-    \end{itemize}
-    \column{0.33\textwidth}
-    \textbf{Gamification}
-    \begin{itemize}
-      \item Self-Determination Theory (Deci \& Ryan).
-      \item Mécaniques : quêtes, badges, progression.
-      \item Risque : sur-justification extrinsèque.
-    \end{itemize}
-    \column{0.33\textwidth}
-    \textbf{Adaptativité}
-    \begin{itemize}
-      \item Modèles d'apprenants (IRT, BKT).
-      \item Plateformes ALEKS, Knewton.
-      \item Faible intégration avec LLM temps réel.
-    \end{itemize}
-  \end{columns}
-\end{frame}
-
-\section{Approche proposée}
-
-\begin{frame}{Architecture prévisionnelle}
+\begin{frame}{Vision simplifiée}
   \begin{itemize}
-    \item \textbf{Profil apprenant} multidimensionnel : connaissances, style, motivation, progression.
-    \item \textbf{Moteur IA générative} encadré :
-          \begin{itemize}
-             \item prompts structurés, corpus validé CPGE.
-             \item approche RAG avec base de connaissances disciplinaires.
-             \item filtres pédagogiques et relecture automatisée.
-          \end{itemize}
-    \item \textbf{Moteur de gamification adaptatif} :
-          \begin{itemize}
-            \item quêtes et défis alignés sur la progression réelle.
-            \item feedback instantané, indicateurs d'engagement (flow, temps, assiduité).
-          \end{itemize}
-    \item \textbf{Couches d'analytics} : tableau de bord enseignants, diagnostics apprenants, suivi longitudinal.
+    \item \textbf{Observer} : analyser les réponses et le rythme de chaque étudiant.
+    \item \textbf{Adapter} : proposer des activités générées par l'IA (explications, quiz, cas pratiques) au bon niveau.
+    \item \textbf{Motiver} : fixer des défis, badges et objectifs adaptés au profil.
+    \item \textbf{Accompagner} : donner aux enseignants un tableau de bord clair pour suivre la progression.
   \end{itemize}
 \end{frame}
 
-\begin{frame}{Feuille de route (36 mois)}
-  \begin{center}
-    \begin{tabular}{@{}p{0.27\textwidth}p{0.3\textwidth}p{0.32\textwidth}@{}}
-      \toprule
-      Phase & Objectifs clés & Livrables \\
-      \midrule
-      Exploration (0--9 mois) & Revue, modèle conceptuel, protocole éthique & Cartographie de l'état de l'art, schéma de données, grille d'évaluation \\
-      Prototypage (9--24 mois) & Développement plateforme, intégration LLM, moteur gamifié & Prototype fonctionnel, prompts pédagogiques, scénarios adaptatifs \\
-      Validation (24--36 mois) & Expérimentations CPGE et formation pro & Jeux de données anonymisés, rapports d'études, articles soumis \\
-      \bottomrule
-    \end{tabular}
-  \end{center}
-\end{frame}
-
-\begin{frame}{Méthodologie d'évaluation}
+\begin{frame}{Plan de travail sur trois ans}
   \begin{itemize}
-    \item \textbf{Design expérimental} : groupes contrôle/expérimental, études longitudinales.
-    \item \textbf{Mesures d'apprentissage} : pré/post-tests, progression sur exercices, indicateurs de transfert.
-    \item \textbf{Mesures d'engagement} : temps actif, taux de complétion, score de flow, auto-évaluations.
-    \item \textbf{Analyse qualitative} : entretiens semi-directifs, feedback enseignants, traces d'interaction.
-    \item \textbf{Aspects éthiques} : consentement, anonymisation, politique d'usage IA responsable.
+    \item \textbf{Année 1} : revue des pratiques, co-construction du modèle pédagogique, premiers tests sur cpgeacademy.
+    \item \textbf{Année 2} : développement du prototype, intégration de l'IA générative, scénarios gamifiés.
+    \item \textbf{Année 3} : expérimentations élargies (CPGE et formation continue), mesure des effets et publications.
   \end{itemize}
 \end{frame}
 
-\section{Valeur ajoutée et défis}
-
-\begin{frame}{Contributions attendues}
-  \begin{columns}
-    \column{0.5\textwidth}
-    \textbf{Scientifiques}
-    \begin{itemize}
-      \item Cadre théorique unifiant IA générative et gamification adaptative.
-      \item Modèle de profil apprenant intégrant dimensions motivationnelles.
-      \item Guides méthodologiques pour l'implémentation d'IA générative en pédagogie.
-    \end{itemize}
-    \column{0.5\textwidth}
-    \textbf{Opérationnelles}
-    \begin{itemize}
-      \item Extension immédiate sur \texttt{cpgeacademy.org}.
-      \item Démos pour formations pro et partenaires industriels.
-      \item Outils d'analyse pour enseignants CPGE.
-    \end{itemize}
-  \end{columns}
-\end{frame}
-
-\begin{frame}{Pourquoi moi ?}
+\begin{frame}{Bénéfices attendus}
   \begin{itemize}
-    \item Expérience unique avec des cohortes à forte intensité cognitive (CPGE) et retours d'apprenants.
-    \item Capacité prouvée à produire et déployer des ressources numériques (plateforme, analytics).
-    \item Maîtrise technique (IA, modélisation) et pédagogique (progression CPGE, TIPE).
-    \item Accès à un terrain d'expérimentation immédiatement exploitable et volonté de diffusion.
-    \item Motivation forte à s'engager trois ans pour faire rayonner le laboratoire.
+    \item Pour le laboratoire : un projet ancré sur le terrain, des données réelles et des retombées visibles.
+    \item Pour les étudiants : plus de motivation, des feedbacks rapides et un parcours personnalisé.
+    \item Pour les partenaires : démonstrateurs prêts à être adaptés à d'autres contextes (langues, formation pro).
   \end{itemize}
 \end{frame}
 
-\begin{frame}{Défis anticipés et réponses}
+\begin{frame}{Conditions de réussite}
   \begin{itemize}
-    \item \textbf{Technique} : coût et latence des LLM \textrightarrow{} optimisation, cache, modèles hybrides.
-    \item \textbf{Pédagogique} : garantir la rigueur du contenu \textrightarrow{} validation par enseignants, référentiels CPGE.
-    \item \textbf{Éthique} : biais, dépendance \textrightarrow{} chartes d'usage, suivi humain, transparence.
-    \item \textbf{Scientifique} : mesure de l'effet à long terme \textrightarrow{} protocoles longitudinal et mix-methods.
-  \end{itemize}
-\end{frame}
-
-\section{Conclusion}
-
-\begin{frame}{Feuille de route immédiate}
-  \begin{itemize}
-    \item Affiner la revue bibliographique et sélectionner 3 cas d'étude alignés avec le laboratoire.
-    \item Co-construire le cahier des charges du prototype avec l'équipe encadrante.
-    \item Préparer une expérimentation pilote sur un module cpgeacademy (été 2025).
-    \item Définir les modalités de suivi (comité, livrables, jalons semestriels).
+    \item Encadrement régulier avec le Pr. Jarir pour valider chaque étape.
+    \item Comité pédagogique CPGE pour tester et ajuster la solution.
+    \item Charte d'usage de l'IA et anonymisation des données pour rassurer étudiants et familles.
+    \item Accès aux ressources techniques du laboratoire pour héberger et sécuriser le prototype.
   \end{itemize}
 \end{frame}
 
 \begin{frame}{Conclusion}
   \begin{itemize}
-    \item Sujet proposé par le Pr. Jarir qui s'appuie sur un besoin identifié sur le terrain CPGE.
-    \item Candidat disposant du triptyque clé \textbf{(expertise pédagogique, maîtrise IA, terrain d'expérimentation)}.
-    \item Ambition : construire un système immersif et personnalisable qui améliore durablement la réussite en e-learning.
+    \item Le sujet correspond aux besoins actuels de nos étudiants et aux priorités du laboratoire.
+    \item Mon profil combine pratique de terrain, maîtrise technique et envie de partager les résultats.
+    \item Je suis prêt à lancer un premier atelier laboratoire--CPGE dès la rentrée pour co-construire le prototype.
   \end{itemize}
-  \vfill
-  \begin{block}{Ouverture}
-    Je propose de lancer un atelier commun laboratoire--CPGE pour co-désigner le prototype et définir ensemble les premiers cas d'usage.
-  \end{block}
 \end{frame}
 
 \end{document}
