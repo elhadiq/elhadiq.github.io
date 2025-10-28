@@ -14,7 +14,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: |-
-        Passionné par la modélisation et le calcul scientifique, j'accompagne les futures générations d'ingénieurs dans l'exploration des systèmes complexes, de l'algorithmique avancée et de la pensée critique. Ce site rassemble mes projets, publications et ressources pédagogiques.
+        Professeur agrégé d'informatique et ingénieur en Modélisation et informatique scientifique, je partage ici mes projets, mes cours et les outils que je développe pour aider les étudiants de CPGE à progresser.
 
         {{< button url="uploads/resume.pdf" style="primary" >}}Télécharger le CV{{< /button >}}
         {{< button url="presentations/candidature-Prof-jarir.pdf" style="secondary" >}}Télécharger la présentation{{< /button >}}
