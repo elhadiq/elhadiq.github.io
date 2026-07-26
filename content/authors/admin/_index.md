@@ -51,6 +51,8 @@ interests:
   - Compilation et théorie des langages
   - Intelligence artificielle et optimisation
   - Enseignement de l’informatique
+  - Blockchain Security
+  - Game Theory
 
 # Education
 education:
