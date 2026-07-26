@@ -17,7 +17,6 @@ sections:
         Professeur agrégé d'informatique et ingénieur en Modélisation et informatique scientifique, je partage ici mes projets, mes cours et les outils que je développe pour aider les étudiants de CPGE à progresser.
 
         {{< button url="uploads/resume.pdf" style="primary" >}}Télécharger le CV{{< /button >}}
-        {{< button url="presentations/candidature-Prof-jarir.pdf" style="secondary" >}}Télécharger la présentation{{< /button >}}
       # Show a call-to-action button under your biography? (optional)
       headings:
         about: "À propos"
