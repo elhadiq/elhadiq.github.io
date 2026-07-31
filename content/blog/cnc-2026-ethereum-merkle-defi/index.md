@@ -4,7 +4,7 @@ summary: Une proposition complète d'épreuve CNC 2026 en 4 problèmes (algorith
 date: 2026-07-31
 draft: false
 authors:
-  - admin
+  - zouhair-el-hadiq
 tags:
   - CNC
   - Ethereum

@@ -12,7 +12,7 @@ sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+      username: zouhair-el-hadiq
       text: |-
         Professeur agrégé d'informatique et ingénieur en Modélisation et informatique scientifique, je partage ici mes propositions de sujets et corrigés pour le Concours National Commun (CNC), mes cours et les outils que je développe pour aider les étudiants de CPGE à progresser.
 

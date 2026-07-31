@@ -13,7 +13,7 @@ design:
 sections:
   - block: resume-experience
     content:
-      username: admin
+      username: zouhair-el-hadiq
     design:
       # Hugo date format
       date_format: 'January 2006'
@@ -22,11 +22,11 @@ sections:
   - block: resume-skills
     content:
       title: Compétences
-      username: admin
+      username: zouhair-el-hadiq
     design:
       show_skill_percentage: false
   - block: resume-languages
     content:
       title: Langues
-      username: admin
+      username: zouhair-el-hadiq
 ---

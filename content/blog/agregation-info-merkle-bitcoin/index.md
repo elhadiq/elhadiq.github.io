@@ -4,7 +4,7 @@ summary: Proposition de texte de modélisation pour l'écrit d'informatique de l
 date: 2026-07-31
 draft: false
 authors:
-  - admin
+  - zouhair-el-hadiq
 tags:
   - Agrégation
   - Bitcoin

@@ -4,7 +4,7 @@ summary: Une proposition d'épreuve autour du protocole Casper (finalité et Pro
 date: 2026-07-31
 draft: false
 authors:
-  - admin
+  - zouhair-el-hadiq
 tags:
   - CNC
   - Ethereum

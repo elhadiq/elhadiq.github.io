@@ -5,7 +5,7 @@ date: 2023-10-24
 draft: true
 math: true
 authors:
-  - admin
+  - zouhair-el-hadiq
 tags:
   - Hugo
   - Hugo Blox Builder
