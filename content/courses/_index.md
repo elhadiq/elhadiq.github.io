@@ -38,6 +38,6 @@ sections:
         <p><strong>Objectifs pédagogiques :</strong> Développer autonomie, rigueur et clarté dans l'écrit scientifique.<br><strong>Évaluation :</strong> Suivi continu et évaluation de la présentation orale.</p>
 
         <h3>Mathématiques discrètes</h3>
-        <p>Fondements combinatoires et logiques indispensables à l'informatique : ensembles, relations, graphes, dénombrement, logique propositionnelle et théorie des langages. Prépare les étudiants MP/PSI aux raisonnements formels rencontrés en algorithmique et en calculabilité.</p>
-        <p><strong>Objectifs pédagogiques :</strong> Maîtriser les outils de preuve et de dénombrement, et modéliser des problèmes à l'aide de structures discrètes (graphes, automates).<br><strong>Évaluation :</strong> Exercices de preuve, travaux dirigés et interrogations écrites.</p>
+        <p>Série de tutoriels en ligne, sur les fondements combinatoires et logiques indispensables à l'informatique : ensembles, relations, graphes, dénombrement, logique propositionnelle et théorie des langages.</p>
+        <p><strong>Objectifs pédagogiques :</strong> Acquérir à son rythme les outils de preuve et de dénombrement, et modéliser des problèmes à l'aide de structures discrètes (graphes, automates).<br><strong>Format :</strong> Vidéos et fiches de tutoriels en ligne, en autonomie.</p>
 ---
