@@ -16,6 +16,13 @@ tags:
 ---
 
 Proposition d'épreuve d'informatique portant sur **Casper**, le protocole de finalité en **Proof of Stake** d'Ethereum, avec son corrigé détaillé. Sujet et corrigé rédigés en LaTeX avec l'aide de **Claude** (Claude Chat et Claude Cowork).
+## Télécharger
+
+{{< button url="casper_enonce.pdf" style="primary" icon="document-arrow-down" >}}Énoncé (PDF){{< /button >}}
+
+&nbsp;
+
+{{< button url="casper_corrige.pdf" style="outline" icon="document-arrow-down" >}}Corrigé (PDF){{< /button >}}
 
 ## Contenu de l'épreuve
 
@@ -40,10 +47,4 @@ Proposition d'épreuve d'informatique portant sur **Casper**, le protocole de fi
 
 **Partie V** — Coût minimal d'une attaque (programmation dynamique)
 
-## Télécharger
 
-{{< button url="casper_enonce.pdf" style="primary" icon="document-arrow-down" >}}Énoncé (PDF){{< /button >}}
-
-&nbsp;
-
-{{< button url="casper_corrige.pdf" style="outline" icon="document-arrow-down" >}}Corrigé (PDF){{< /button >}}
