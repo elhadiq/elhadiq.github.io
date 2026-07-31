@@ -7,6 +7,9 @@ main:
   - name: Accueil
     url: /
     weight: 10
+  - name: Actualités
+    url: blog/
+    weight: 20
   - name: Parcours
     url: experience/
     weight: 30
