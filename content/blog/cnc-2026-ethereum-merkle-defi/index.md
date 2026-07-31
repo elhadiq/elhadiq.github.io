@@ -16,6 +16,21 @@ tags:
 
 Proposition complète d'épreuve d'informatique dans l'esprit du **Concours National Commun (CNC) 2026**, structurée en quatre problèmes indépendants, avec son corrigé détaillé. Sujet et corrigé rédigés en LaTeX avec l'aide de **Claude** (Claude Chat et Claude Cowork).
 
+## Télécharger
+
+{{< button url="CNC2026_enonce.pdf" style="primary" icon="document-arrow-down" >}}Énoncé complet (PDF){{< /button >}}
+
+&nbsp;
+
+{{< button url="CNC2026_corrige.pdf" style="outline" icon="document-arrow-down" >}}Corrigé complet (PDF){{< /button >}}
+
+### Problèmes séparés
+
+{{< button url="A_ethereum_algorithmes.pdf" style="ghost" size="sm" icon="document-text" >}}I — Algorithmique Ethereum{{< /button >}}
+{{< button url="B_arbres_de_merkle.pdf" style="ghost" size="sm" icon="document-text" >}}II — Arbres de Merkle{{< /button >}}
+{{< button url="C_partition_prog_dynamique.pdf" style="ghost" size="sm" icon="document-text" >}}III — Partition & prog. dynamique{{< /button >}}
+{{< button url="D_defi_amm.pdf" style="ghost" size="sm" icon="document-text" >}}IV — DeFi & AMM{{< /button >}}
+
 ## Problème I — Algorithmique de la blockchain Ethereum
 
 - Partie I — Unités et compteur de gaz
@@ -51,18 +66,3 @@ Proposition complète d'épreuve d'informatique dans l'esprit du **Concours Nati
 {{< figure src="figs/g1_preuve.png" caption="Preuve d'inclusion dans un arbre de Merkle" >}}
 
 {{< figure src="figs/g3_minage.png" caption="Sélection aléatoire d'un validateur / minage" >}}
-
-## Télécharger
-
-{{< button url="CNC2026_enonce.pdf" style="primary" icon="document-arrow-down" >}}Énoncé complet (PDF){{< /button >}}
-
-&nbsp;
-
-{{< button url="CNC2026_corrige.pdf" style="outline" icon="document-arrow-down" >}}Corrigé complet (PDF){{< /button >}}
-
-### Problèmes séparés
-
-{{< button url="A_ethereum_algorithmes.pdf" style="ghost" size="sm" icon="document-text" >}}I — Algorithmique Ethereum{{< /button >}}
-{{< button url="B_arbres_de_merkle.pdf" style="ghost" size="sm" icon="document-text" >}}II — Arbres de Merkle{{< /button >}}
-{{< button url="C_partition_prog_dynamique.pdf" style="ghost" size="sm" icon="document-text" >}}III — Partition & prog. dynamique{{< /button >}}
-{{< button url="D_defi_amm.pdf" style="ghost" size="sm" icon="document-text" >}}IV — DeFi & AMM{{< /button >}}
