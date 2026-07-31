@@ -6,8 +6,8 @@ title: Zouhair El Hadiq
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Zouhair
-last_name: El Hadiq
+first_name: EL HADIQ
+last_name: ZOUHAIR
 
 # Pronouns (optional)
 pronouns: he/him

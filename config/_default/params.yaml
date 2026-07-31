@@ -35,12 +35,12 @@ header:
     show_search: true
     show_theme_chooser: false
     logo:
-      text: 'EL HADIQ ZOUHAIR'
+      text: 'Zouhair EL Hadiq'
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} EL Hadiq Zouhair. Ce site est distribué sous licence {license}'
+    notice: '© {year} Zouhair EL Hadiq. Ce site est distribué sous licence {license}'
     license:
       enable: true
       allow_derivatives: false
