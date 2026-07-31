@@ -62,7 +62,7 @@ education:
     date_end: 2022-06-30
     summary: |
       Préparation et réussite du concours d’Agrégation en Informatique.
-  - area: Ingénieur - Modélisation et Informatique Scientifique Scientifique
+  - area: Ingénieur - Modélisation et Informatique Scientifique
     institution: École Mohammadia d’Ingénieurs (EMI)
     date_start: 2016-09-01
     date_end: 2019-06-30
@@ -130,7 +130,6 @@ work:
     company_url: https://www.cpge.men.gov.ma/
     date_start: 2022-09-01
     date_end: 2023-07-15
-    date_end: ''
     summary: |
       Enseignement des cours d’informatique (algorithmique, systèmes, programmation et logique).
       Encadrement d’étudiants en classes préparatoires scientifiques MP et PSI.

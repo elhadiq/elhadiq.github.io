@@ -18,22 +18,26 @@ sections:
         Retrouvez l'ensemble des ressources et activités pédagogiques sur [cpgeacademy.org](https://cpgeacademy.org), la plateforme Moodle de la CPGE Bab Sahraa.
   - block: markdown
     content:
-      title: Teaching Philosophy
+      title: Philosophie d'enseignement
       text: |-
-        I believe that true mastery in the sciences comes from a balance between <strong>conceptual understanding</strong> and <strong>applied reasoning</strong>. My teaching focuses on <strong>algorithmics</strong>, <strong>mathematical modeling</strong>, and <strong>computational thinking</strong>, helping students build rigorous methods for solving complex problems. Through courses and resources designed for <strong>CPGE (MP/PSI) preparation</strong>, I aim to cultivate precision, creativity, and scientific intuition — essential qualities for success in competitive exams and engineering careers.
+        Je crois que la véritable maîtrise des sciences repose sur un équilibre entre <strong>compréhension conceptuelle</strong> et <strong>raisonnement appliqué</strong>. Mon enseignement met l'accent sur l'<strong>algorithmique</strong>, la <strong>modélisation mathématique</strong> et la <strong>pensée computationnelle</strong>, pour aider les étudiants à construire des méthodes rigoureuses de résolution de problèmes complexes. À travers des cours et ressources conçus pour la <strong>préparation aux CPGE (MP/PSI)</strong>, je vise à cultiver précision, créativité et intuition scientifique — des qualités essentielles pour réussir les concours et les carrières d'ingénieur.
   - block: markdown
     content:
-      title: Current Courses
+      title: Cours actuels
       text: |-
         <h3>Algorithmique & Python</h3>
-        <p>Introduction to algorithmic reasoning and structured programming using Python. Students learn about variables, control structures, functions, and problem decomposition through practical exercises inspired by CPGE concours problems.</p>
-        <p><strong>Learning objectives:</strong> Develop precision in reasoning and mastery of algorithmic syntax.<br><strong>Assessment:</strong> Quizzes, coding challenges, and graded notebook submissions.</p>
+        <p>Introduction au raisonnement algorithmique et à la programmation structurée avec Python. Les étudiants découvrent les variables, les structures de contrôle, les fonctions et la décomposition de problèmes à travers des exercices pratiques inspirés des sujets de concours CPGE.</p>
+        <p><strong>Objectifs pédagogiques :</strong> Développer la rigueur du raisonnement et la maîtrise de la syntaxe algorithmique.<br><strong>Évaluation :</strong> Quiz, défis de programmation et notebooks notés.</p>
 
         <h3>Modélisation & Simulation</h3>
-        <p>Bridges mathematics and computer science by using Python to model physical or environmental systems. Ideal for MP/PSI students exploring applied scientific reasoning.</p>
-        <p><strong>Learning objectives:</strong> Translate theoretical models into numerical simulations.<br><strong>Assessment:</strong> Mini-projects with report and code validation.</p>
+        <p>Fait le lien entre mathématiques et informatique en utilisant Python pour modéliser des systèmes physiques ou environnementaux. Idéal pour les étudiants MP/PSI souhaitant explorer le raisonnement scientifique appliqué.</p>
+        <p><strong>Objectifs pédagogiques :</strong> Traduire des modèles théoriques en simulations numériques.<br><strong>Évaluation :</strong> Mini-projets avec rapport et validation du code.</p>
 
         <h3>Méthodologie TIPE</h3>
-        <p>Guidance for developing and presenting personal scientific projects (TIPE). Covers topic selection, experimental design, and clear scientific communication.</p>
-        <p><strong>Learning objectives:</strong> Build autonomy, rigor, and clarity in scientific writing.<br><strong>Assessment:</strong> Continuous supervision and oral presentation evaluation.</p>
+        <p>Accompagnement dans l'élaboration et la présentation des projets scientifiques personnels (TIPE). Couvre le choix du sujet, la démarche expérimentale et la communication scientifique claire.</p>
+        <p><strong>Objectifs pédagogiques :</strong> Développer autonomie, rigueur et clarté dans l'écrit scientifique.<br><strong>Évaluation :</strong> Suivi continu et évaluation de la présentation orale.</p>
+
+        <h3>Mathématiques discrètes</h3>
+        <p>Fondements combinatoires et logiques indispensables à l'informatique : ensembles, relations, graphes, dénombrement, logique propositionnelle et théorie des langages. Prépare les étudiants MP/PSI aux raisonnements formels rencontrés en algorithmique et en calculabilité.</p>
+        <p><strong>Objectifs pédagogiques :</strong> Maîtriser les outils de preuve et de dénombrement, et modéliser des problèmes à l'aide de structures discrètes (graphes, automates).<br><strong>Évaluation :</strong> Exercices de preuve, travaux dirigés et interrogations écrites.</p>
 ---
