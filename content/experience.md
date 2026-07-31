@@ -1,5 +1,6 @@
 ---
 title: 'Expérience'
+summary: "Parcours, expérience professionnelle et compétences de Zouhair El Hadiq, professeur agrégé d'informatique en CPGE (Maroc)."
 date: 2023-10-24
 type: landing
 

@@ -14,7 +14,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: |-
-        Professeur agrégé d'informatique et ingénieur en Modélisation et informatique scientifique, je partage ici mes projets, mes cours et les outils que je développe pour aider les étudiants de CPGE à progresser.
+        Professeur agrégé d'informatique et ingénieur en Modélisation et informatique scientifique, je partage ici mes propositions de sujets et corrigés pour le Concours National Commun (CNC), mes cours et les outils que je développe pour aider les étudiants de CPGE à progresser.
 
         {{< button url="uploads/resume.pdf" style="primary" >}}Télécharger le CV{{< /button >}}
       # Show a call-to-action button under your biography? (optional)

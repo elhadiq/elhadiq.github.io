@@ -6,6 +6,7 @@ draft: false
 authors:
   - admin
 tags:
+  - CNC
   - Ethereum
   - Casper
   - Proof of Stake
