@@ -20,10 +20,6 @@ Proposition complète d'épreuve d'informatique dans l'esprit du **Concours Nati
 
 {{< button url="CNC2026_enonce.pdf" style="primary" icon="document-arrow-down" >}}Énoncé complet (PDF){{< /button >}}
 
-&nbsp;
-
-{{< button url="CNC2026_corrige.pdf" style="outline" icon="document-arrow-down" >}}Corrigé complet (PDF){{< /button >}}
-
 ### Problèmes séparés
 
 {{< button url="A_ethereum_algorithmes.pdf" style="ghost" size="sm" icon="document-text" >}}I — Algorithmique Ethereum{{< /button >}}

@@ -20,10 +20,6 @@ Proposition d'épreuve d'informatique portant sur **Casper**, le protocole de fi
 
 {{< button url="casper_enonce.pdf" style="primary" icon="document-arrow-down" >}}Énoncé (PDF){{< /button >}}
 
-&nbsp;
-
-{{< button url="casper_corrige.pdf" style="outline" icon="document-arrow-down" >}}Corrigé (PDF){{< /button >}}
-
 ## Contenu de l'épreuve
 
 **Présentation générale** — notations et conventions
