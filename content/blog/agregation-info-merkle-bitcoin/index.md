@@ -10,10 +10,9 @@ tags:
   - Bitcoin
   - Blockchain
   - Modélisation
-  - Claude AI
 ---
 
-Proposition de **texte de modélisation informatique** pour l'écrit d'**agrégation**, construite autour des blocs et transactions de Bitcoin, des arbres de Merkle et de la preuve de travail. Texte et variantes de modélisation rédigés en LaTeX avec l'aide de **Claude** (Claude Chat et Claude Cowork).
+Proposition de **texte de modélisation informatique** pour l'écrit d'**agrégation**, construite autour des blocs et transactions de Bitcoin, des arbres de Merkle et de la preuve de travail. Texte et variantes de modélisation rédigés en LaTeX avec l'aide de AI.
 
 ## Télécharger
 

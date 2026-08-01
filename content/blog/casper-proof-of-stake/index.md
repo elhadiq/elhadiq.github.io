@@ -12,10 +12,9 @@ tags:
   - Proof of Stake
   - Blockchain
   - Algorithmique
-  - Claude AI
 ---
 
-Proposition d'épreuve d'informatique portant sur **Casper**, le protocole de finalité en **Proof of Stake** d'Ethereum, avec son corrigé détaillé. Sujet et corrigé rédigés en LaTeX avec l'aide de **Claude** (Claude Chat et Claude Cowork).
+Proposition d'épreuve d'informatique portant sur **Casper**, le protocole de finalité en **Proof of Stake** d'Ethereum, avec son corrigé détaillé. Sujet et corrigé rédigés en LaTeX avec l'aide de l'AI
 ## Télécharger
 
 {{< button url="casper_enonce.pdf" style="primary" icon="document-arrow-down" >}}Énoncé (PDF){{< /button >}}

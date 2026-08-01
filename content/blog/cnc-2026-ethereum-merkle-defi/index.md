@@ -11,10 +11,9 @@ tags:
   - Blockchain
   - Algorithmique
   - DeFi
-  - Claude AI
 ---
 
-Proposition complète d'épreuve d'informatique dans l'esprit du **Concours National Commun (CNC) 2026**, structurée en quatre problèmes indépendants, avec son corrigé détaillé. Sujet et corrigé rédigés en LaTeX avec l'aide de **Claude** (Claude Chat et Claude Cowork).
+Proposition complète d'épreuve d'informatique dans l'esprit du **Concours National Commun (CNC) 2026**, structurée en quatre problèmes indépendants, avec son corrigé détaillé. Sujet et corrigé rédigés en LaTeX avec l'aide de L'AI.
 
 ## Télécharger
 

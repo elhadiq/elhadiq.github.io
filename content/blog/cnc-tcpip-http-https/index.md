@@ -12,7 +12,6 @@ tags:
   - TCP/IP
   - HTTP
   - Cryptographie
-  - Claude AI
 ---
 
 ## Télécharger
@@ -21,7 +20,7 @@ tags:
 
 Proposition d'épreuve d'informatique dans l'esprit du **Concours National Commun (CNC), filière MP** (4 heures, 60 questions), intitulée *« Voyage d'un paquet : de l'adresse IP au cadenas du navigateur »*. Le sujet suit, de bout en bout et sans prérequis réseau, les mécanismes qui se déclenchent lorsqu'un navigateur affiche une page : adressage CIDR, somme de contrôle, routage, fiabilité et congestion TCP, HTTP et établissement du secret HTTPS.
 
-Le corrigé a été entièrement exécuté et vérifié : chaque fonction Python a été confrontée à une implémentation naïve de référence sur plusieurs milliers de jeux d'essai aléatoires, et les requêtes SQL ont été exécutées sur une base réelle. Sujet et corrigé rédigés en LaTeX avec l'aide de **Claude** (Claude Chat et Claude Cowork).
+Le corrigé a été entièrement exécuté et vérifié : chaque fonction Python a été confrontée à une implémentation naïve de référence sur plusieurs milliers de jeux d'essai aléatoires, et les requêtes SQL ont été exécutées sur une base réelle. Sujet et corrigé rédigés en LaTeX avec l'aide de **L'AI** .
 
 ## Plan de l'épreuve
 

@@ -12,7 +12,6 @@ tags:
   - Ethereum
   - Blockchain
   - Modélisation
-  - Claude AI
 ---
 
 ## Télécharger
@@ -21,7 +20,6 @@ tags:
 
 Texte de modélisation pour l'**épreuve orale d'informatique de l'agrégation** (option informatique), rédigé d'après V. Buterin et V. Griffith, *Casper the Friendly Finality Gadget*, Ethereum Foundation, arXiv:1710.09437v4, 2019. Le texte formalise le protocole **Casper**, mécanisme de finalité en Proof of Stake d'Ethereum, et propose dix suggestions de développement indépendantes pour la discussion du candidat.
 
-Texte rédigé en LaTeX avec l'aide de **Claude** (Claude Chat et Claude Cowork).
 
 ## Plan du texte
 
