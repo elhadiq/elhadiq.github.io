@@ -12,6 +12,8 @@ tags:
   - Modélisation
 ---
 
+> **Avertissement.** Il s'agit d'une **proposition personnelle**, à but pédagogique — **pas une épreuve officielle** du Concours National Commun (CNC) ni de l'Agrégation.
+
 Proposition de **texte de modélisation informatique** pour l'écrit d'**agrégation**, construite autour des blocs et transactions de Bitcoin, des arbres de Merkle et de la preuve de travail. Texte et variantes de modélisation rédigés en LaTeX avec l'aide de AI.
 
 ## Télécharger

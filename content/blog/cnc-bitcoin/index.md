@@ -12,6 +12,8 @@ tags:
   - Blockchain
 ---
 
+> **Avertissement.** Il s'agit d'une **proposition personnelle**, à but pédagogique — **pas une épreuve officielle** du Concours National Commun (CNC) ni de l'Agrégation.
+
 ## Télécharger
 
 {{< button url="cnc_bitcoin_enonce.pdf" style="primary" icon="document-arrow-down" >}}Énoncé (PDF){{< /button >}}

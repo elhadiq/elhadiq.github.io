@@ -14,6 +14,8 @@ tags:
   - Modélisation
 ---
 
+> **Avertissement.** Il s'agit d'une **proposition personnelle**, à but pédagogique — **pas une épreuve officielle** du Concours National Commun (CNC) ni de l'Agrégation.
+
 ## Télécharger
 
 {{< button url="casper_modelisation.pdf" style="primary" icon="document-arrow-down" >}}Texte de modélisation (PDF){{< /button >}}

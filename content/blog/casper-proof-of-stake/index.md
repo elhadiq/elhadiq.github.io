@@ -14,6 +14,8 @@ tags:
   - Algorithmique
 ---
 
+> **Avertissement.** Il s'agit d'une **proposition personnelle**, à but pédagogique — **pas une épreuve officielle** du Concours National Commun (CNC) ni de l'Agrégation.
+
 Proposition d'épreuve d'informatique portant sur **Casper**, le protocole de finalité en **Proof of Stake** d'Ethereum, avec son corrigé détaillé. Sujet et corrigé rédigés en LaTeX avec l'aide de l'AI
 ## Télécharger
 

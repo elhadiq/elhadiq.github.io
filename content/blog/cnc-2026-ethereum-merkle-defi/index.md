@@ -13,6 +13,8 @@ tags:
   - DeFi
 ---
 
+> **Avertissement.** Il s'agit d'une **proposition personnelle**, à but pédagogique — **pas une épreuve officielle** du Concours National Commun (CNC) ni de l'Agrégation.
+
 Proposition complète d'épreuve d'informatique dans l'esprit du **Concours National Commun (CNC) 2026**, structurée en quatre problèmes indépendants, avec son corrigé détaillé. Sujet et corrigé rédigés en LaTeX avec l'aide de L'AI.
 
 ## Télécharger
