@@ -15,10 +15,10 @@ sections:
     content:
       title: Cours actuels
       text: |-
-        <h3>Informatique — Ressources CPGE MP/PSI/TSI</h3>
+        <h3><a href="https://spe.cpgeacademy.org">Informatique — Ressources CPGE MP/PSI/TSI</a></h3>
         <p>Retrouvez les ressources d'informatique dédiées aux filières MP/PSI/TSI sur <a href="https://spe.cpgeacademy.org">spe.cpgeacademy.org</a>.</p>
 
-        <h3>Discrete Mathematics</h3>
+        <h3><a href="https://discrete-mathematics.cpgeacademy.org/">Discrete Mathematics</a></h3>
         <p><em>Logic · Sets · Proofs · Counting · Graphs</em></p>
         <a href="https://discrete-mathematics.cpgeacademy.org/"><img src="dm.jpeg" alt="Discrete Mathematics — Explore the foundations of mathematics for computing"></a>
         <p>A course covering the combinatorial and logical foundations essential to computer science: sets, relations, graphs, counting, propositional logic, and language theory. Offered as part of the <strong>ACSP Program</strong>, an online program by HEWB.</p>
