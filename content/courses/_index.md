@@ -13,6 +13,11 @@ cascade:
 sections:
   - block: markdown
     content:
+      title: Informatique — Ressources CPGE MP/PSI/TSI
+      text: |-
+        Retrouvez les ressources d'informatique dédiées aux filières MP/PSI/TSI sur [spe.cpgeacademy.org](https://spe.cpgeacademy.org).
+  - block: markdown
+    content:
       title: Accéder à la plateforme Moodle
       text: |-
         Retrouvez l'ensemble des ressources et activités pédagogiques sur [cpgeacademy.org](https://cpgeacademy.org), la plateforme Moodle de la CPGE Bab Sahraa.
