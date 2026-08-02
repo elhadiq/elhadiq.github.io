@@ -42,7 +42,10 @@ sections:
         <p>Accompagnement dans l'élaboration et la présentation des projets scientifiques personnels (TIPE). Couvre le choix du sujet, la démarche expérimentale et la communication scientifique claire.</p>
         <p><strong>Objectifs pédagogiques :</strong> Développer autonomie, rigueur et clarté dans l'écrit scientifique.<br><strong>Évaluation :</strong> Suivi continu et évaluation de la présentation orale.</p>
 
-        <h3>Mathématiques discrètes</h3>
-        <p>Série de tutoriels en ligne, sur les fondements combinatoires et logiques indispensables à l'informatique : ensembles, relations, graphes, dénombrement, logique propositionnelle et théorie des langages.</p>
-        <p><strong>Objectifs pédagogiques :</strong> Acquérir à son rythme les outils de preuve et de dénombrement, et modéliser des problèmes à l'aide de structures discrètes (graphes, automates).<br><strong>Format :</strong> Vidéos et fiches de tutoriels en ligne, en autonomie.</p>
+        <h3>Discrete Mathematics</h3>
+        <p><em>Logic · Sets · Proofs · Counting · Graphs</em></p>
+        <p>A self-paced series of online tutorials covering the combinatorial and logical foundations essential to computer science: sets, relations, graphs, counting, propositional logic, and language theory.</p>
+        <p><strong>Learning objectives:</strong> Acquire proof and counting techniques at your own pace, and model problems using discrete structures (graphs, automata).<br><strong>Format:</strong> Self-paced video lessons and tutorial sheets, taught in English.</p>
+        <p><strong>Instructors:</strong> Pr. Zouhair El Hadiq · Pr. Ismail Bouishak (Co-instructor)</p>
+        <p>Access the course: <a href="https://discrete-mathematics.cpgeacademy.org/">discrete-mathematics.cpgeacademy.org</a></p>
 ---
