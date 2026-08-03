@@ -16,6 +16,7 @@ sections:
       title: Cours actuels
       text: |-
         <h3><a href="https://spe.cpgeacademy.org">Informatique — Ressources CPGE MP/PSI/TSI</a></h3>
+        <a href="https://spe.cpgeacademy.org/"><img src="mp.jpg" alt="Informatique — Ressources CPGE MP/PSI/TSI"></a>
         <p>Retrouvez les ressources d'informatique dédiées aux filières MP/PSI/TSI sur <a href="https://spe.cpgeacademy.org">spe.cpgeacademy.org</a>.</p>
 
         <h3><a href="https://discrete-mathematics.cpgeacademy.org/">Discrete Mathematics</a></h3>
