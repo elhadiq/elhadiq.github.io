@@ -15,6 +15,11 @@ sections:
     content:
       title: Cours actuels
       text: |-
+        <h3><a href="https://elhadiq.github.io/MPSI-TSI-PCSI/">Informatique — Ressources CPGE SUP MPSI/PCSI/TSI</a></h3>
+        <a href="https://elhadiq.github.io/MPSI-TSI-PCSI//"><img src="sup.jpg" alt="Informatique — Ressources CPGE MP/PSI/TSI"></a>
+        <p>Retrouvez les ressources d'informatique dédiées aux filières MPSI/PCSI/TSI sur <a href="https://elhadiq.github.io/MPSI-TSI-PCSI/">spe.cpgeacademy.org</a>.</p>
+
+
         <h3><a href="https://spe.cpgeacademy.org">Informatique — Ressources CPGE MP/PSI/TSI</a></h3>
         <a href="https://spe.cpgeacademy.org/"><img src="mp.jpg" alt="Informatique — Ressources CPGE MP/PSI/TSI"></a>
         <p>Retrouvez les ressources d'informatique dédiées aux filières MP/PSI/TSI sur <a href="https://spe.cpgeacademy.org">spe.cpgeacademy.org</a>.</p>
